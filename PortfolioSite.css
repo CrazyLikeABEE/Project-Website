@@ -32,10 +32,8 @@ h3 {
     display: block;
     float: none;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     max-width: 100%;
-    height: auto;
 }
 
 .imgSmall {
@@ -44,6 +42,7 @@ h3 {
     text-align: center;
     position: relative;
     max-width: 100%;
+    height: auto;
 }
 
 .row {
